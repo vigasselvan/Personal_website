@@ -10,7 +10,7 @@ function Hello(){
                 </div>
             </div>
             <div className="resDown">
-                <h3><a href={resume} target="_blank" rel="noopener noreferrer">RESUME📄</a></h3>
+                <h3><a href={resume} target="_blank" rel="noopener noreferrer">RESUME📜</a></h3>
             </div>
         </div>  
     );

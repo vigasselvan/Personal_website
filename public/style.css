@@ -74,15 +74,20 @@ body{
     justify-content: center;
 }
 .resDown h3{
-    background-color: blueviolet;
+    background-color: rgba(232, 229, 228, 0.7);
     border-radius: 100px;
-    padding:10px;
+    padding:10px 15px;
+    transition: 1s;
     /* margin-right: 30px; */
 }
 .resDown h3 a{
     text-decoration: none;
-    font-size: medium;
-    color: azure;
+    font-weight: 600;
+    color: #201c29;
+}
+.resDown h3:hover{
+    background-color: grey;
+    border-radius: 0;
 }
 
 
@@ -136,6 +141,8 @@ body{
     height: 200px;
     width: 300px;
     border-radius: 25px;
+    -webkit-filter: grayscale(0%);
+    filter: grayscale(0%);
 }
 
 .picSec p{
@@ -199,8 +206,14 @@ body{
     gap: 160px;
     transition: 1.7s;
 }
+.skillLogo div img{
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    transition: 1.4s;
+} 
 .skillLogo div img:hover{
-    opacity: 0.5;
+    -webkit-filter: grayscale(0);
+    filter: grayscale(0);
     transform: translateY(-1rem);
 } 
 
