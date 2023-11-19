@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/Personal_website/static/js/main.5cf5ed43.js",
+    "main.js": "/Personal_website/static/js/main.d62a0767.js",
     "static/media/spaceImg.png": "/Personal_website/static/media/spaceImg.cc9be5e82370a9e0e3f2.png",
     "static/media/blog.png": "/Personal_website/static/media/blog.2be225ca408a0366da5a.png",
     "static/media/MernResume.pdf": "/Personal_website/static/media/MernResume.f67e70984841c7e87fac.pdf",
@@ -9,9 +9,9 @@
     "static/media/calc.png": "/Personal_website/static/media/calc.70dc5ef829ef93b964af.png",
     "static/media/portPort2.jpeg": "/Personal_website/static/media/portPort2.484f2da1caa273185486.jpeg",
     "index.html": "/Personal_website/index.html",
-    "main.5cf5ed43.js.map": "/Personal_website/static/js/main.5cf5ed43.js.map"
+    "main.d62a0767.js.map": "/Personal_website/static/js/main.d62a0767.js.map"
   },
   "entrypoints": [
-    "static/js/main.5cf5ed43.js"
+    "static/js/main.d62a0767.js"
   ]
 }
