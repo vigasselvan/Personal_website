@@ -6,7 +6,7 @@ function Hello(){
         <div id="home">
             <div className="helloWrap">
                 <div>
-                    <h1>Hey <span id="hiEmoj">👋🏻</span> I'm Vigas</h1>
+                    <h1>Hey <span className="hiEmoj">👋🏻</span> I'm Vigas</h1>
                 </div>
             </div>
             <div className="resDown">

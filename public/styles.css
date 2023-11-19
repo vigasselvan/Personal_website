@@ -69,7 +69,7 @@ body{
     font-weight: 500;
 }
 
-#hiEmoj{
+.hiEmoj{
     animation: waving-hand 2.5s infinite;
     transform-origin: 70% 70%;
 }
