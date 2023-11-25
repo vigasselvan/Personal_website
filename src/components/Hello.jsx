@@ -1,5 +1,5 @@
 import React from "react";
-import resume from "../MernResume.pdf";
+import resume from "../NewResume1.pdf";
 
 function Hello(){
     return (
